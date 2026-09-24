@@ -1,4 +1,4 @@
-![banner](./github-banner.svg)
+![banner](./github-banner-v2.svg)
 
 <p>
   <a href="https://t.me/exceedspace">Telegram</a> ·
